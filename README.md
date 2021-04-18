@@ -1,1 +1,1 @@
-# JavaCourse
+# Spring Domaći
